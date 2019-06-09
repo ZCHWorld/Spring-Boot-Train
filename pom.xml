@@ -17,6 +17,10 @@
     <description>Demo project for Spring Boot</description>
 
     <modules>
+        <module>annotation</module>
+        <module>conditional</module>
+        <module>task</module>
+        <module>test</module>
         <module>thread</module>
     </modules>
 
